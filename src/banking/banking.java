@@ -14,7 +14,7 @@ public class Banking {
 
         Banking banking = new Banking();
 
-        System.out.println("HELLO WELCOME TO PAUL BANKING SYSTEM");
+        System.out.println("HELLO WELCOME TO MY BANKING SYSTEM");
         System.out.println("What can I do for you today?");
         System.out.println("1. Banking");
         System.out.println("2. Doctor's Appointment");
